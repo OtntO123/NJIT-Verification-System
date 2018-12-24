@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+        <script src="jquery-3.3.1.min.js">
         </script>
         <title>Place Autocomplete</title>
         <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
